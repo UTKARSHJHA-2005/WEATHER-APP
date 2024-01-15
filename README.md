@@ -1,6 +1,6 @@
 # WEATHER-APP
 This is a react app where we can able to see today's weather by just typing state name on search-bar.<br>
-KEY ELEMENTS OF APP<br>
+<strong>KEY ELEMENTS OF APP:</strong><br>
 i) The user doesn't need to write the country name with the state name. By just typing state name, he/she will get the country name with its weather report.<br>
 ii) The user will also get to see the temperature with name(Smoke,Haze,Dust,Clear etc..).<br>
 iii) The user will get full report of the weather by just typing name of the state.<br>
