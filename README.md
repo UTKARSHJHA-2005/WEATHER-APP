@@ -9,6 +9,6 @@ i)App.js:<br>
   The main file in which react website takes the information about website that what should be implement in the file etc.<br>
 ii)Weather.jsx:<br>
   The JSX(JavaScript Extemnsion) is writing HTML code in Javascript file.<br>
-  This file(WEather.jsx) contains the main code of the website.It contains functions,api etc.<br>
+  This file(Weather.jsx) contains the main code of the website.It contains functions,api etc.<br>
 iii)Weather.css:<br>
-  The designning file which means it contains the designs or text syle of the app.<br>
+  The designing file which means it contains the designs or text style of the app.<br>
